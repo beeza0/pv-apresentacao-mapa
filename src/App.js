@@ -23,7 +23,7 @@ const handleClose = () => setOpenModal(false)
       />
       <div className="container">
         <div 
-          class="city-icon" 
+          className="city-icon" 
           data-city="Belo Horizonte" 
           style={{ top: "74.4vh", left: "35.7vw" }}
           onClick={() => {
@@ -40,7 +40,7 @@ const handleClose = () => setOpenModal(false)
           <LocationIcon color={"red"}/>
         </div>
         <div 
-          class="city-icon" 
+          className="city-icon" 
           data-city="Para de Minas" 
           style={{top: "74vh", left: "31vw"}}
           onClick={() => {
@@ -57,7 +57,7 @@ const handleClose = () => setOpenModal(false)
           <LocationIcon color={"green"}/>
         </div>
         <div 
-          class="city-icon" 
+          className="city-icon" 
           data-city="Pitangui" 
           style={{top: "71.2vh", left: "29vw"}}
           onClick={() => {
@@ -74,7 +74,7 @@ const handleClose = () => setOpenModal(false)
           <LocationIcon color={"blue"}/>
         </div>
         <div 
-          class="city-icon" 
+          className="city-icon" 
           data-city="Nanuque" 
           style={{top: "41.5vh", left: "62.2vw"}}
           onClick={() => {
@@ -91,7 +91,7 @@ const handleClose = () => setOpenModal(false)
           <LocationIcon color={"green"}/>
         </div>
         <div 
-          class="city-icon" 
+          className="city-icon" 
           data-city="Vitória" 
           style={{top: "81.5vh", left: "62.3vw"}}
           onClick={() => {
@@ -108,7 +108,7 @@ const handleClose = () => setOpenModal(false)
           <LocationIcon color={"blue"}/>
         </div>
         <div 
-          class="city-icon" 
+          className="city-icon" 
           data-city="Montes Claros" 
           style={{top: "22.5vh", left: "36.3vw"}}
           onClick={() => {
@@ -125,7 +125,7 @@ const handleClose = () => setOpenModal(false)
           <LocationIcon color={"blue"}/>
         </div>
         <div 
-          class="city-icon" 
+          className="city-icon" 
           data-city="Porto Seguro" 
           style={{top: "18.8vh", left: "71.7vw"}}
           onClick={() => {
