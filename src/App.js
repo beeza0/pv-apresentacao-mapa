@@ -23,7 +23,7 @@ const handleClose = () => setOpenModal(false)
       />
       <div className="container">
         <div 
-          class="city-icon" 
+          className="city-icon" 
           data-city="Belo Horizonte" 
           style={{ top: "74.4vh", left: "34.7vw" }}
           onClick={() => {
@@ -40,7 +40,7 @@ const handleClose = () => setOpenModal(false)
           <LocationIcon color={"red"}/>
         </div>
         <div 
-          class="city-icon" 
+          className="city-icon" 
           data-city="Para de Minas" 
           style={{top: "74vh", left: "30vw"}}
           onClick={() => {
@@ -57,7 +57,7 @@ const handleClose = () => setOpenModal(false)
           <LocationIcon color={"green"}/>
         </div>
         <div 
-          class="city-icon" 
+          className="city-icon" 
           data-city="Pitangui" 
           style={{top: "71.5vh", left: "28vw"}}
           onClick={() => {
@@ -74,7 +74,7 @@ const handleClose = () => setOpenModal(false)
           <LocationIcon color={"blue"}/>
         </div>
         <div 
-          class="city-icon" 
+          className="city-icon" 
           data-city="Nanuque" 
           style={{top: "40.5vh", left: "63.2vw"}}
           onClick={() => {
@@ -91,14 +91,14 @@ const handleClose = () => setOpenModal(false)
           <LocationIcon color={"green"}/>
         </div>
         <div 
-          class="city-icon" 
+          className="city-icon" 
           data-city="Vitória" 
           style={{top: "81.5vh", left: "63.3vw"}}
           onClick={() => {
             setOpenModal(true)
             setModalState({
               title: "Vitória",
-              subtitle: "Em processo de reabertura depois de 15 anos, localizada a 644 km de BH.",
+              subtitle: "Em processo de reabertura depois de 10 anos, localizada a 644 km de BH.",
               acts: ["Confecção de pirâmedes em 04/11", "Clarividência em 18/11", "Palestra Básico em 02/12", "BAS presencial em abril/2025"],
               image: Vitoria,
               imageWidth: 600
@@ -108,7 +108,7 @@ const handleClose = () => setOpenModal(false)
           <LocationIcon color={"blue"}/>
         </div>
         <div 
-          class="city-icon" 
+          className="city-icon" 
           data-city="Montes Claros" 
           style={{top: "22.7vh", left: "35.35vw"}}
           onClick={() => {
@@ -125,7 +125,7 @@ const handleClose = () => setOpenModal(false)
           <LocationIcon color={"blue"}/>
         </div>
         <div 
-          class="city-icon" 
+          className="city-icon" 
           data-city="Porto Seguro" 
           style={{top: "18.1vh", left: "73.3vw"}}
           onClick={() => {
