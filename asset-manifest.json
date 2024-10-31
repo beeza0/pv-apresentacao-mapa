@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pv-apresentacao-mapa/static/css/main.439e37bb.css",
-    "main.js": "/pv-apresentacao-mapa/static/js/main.622c74ae.js",
+    "main.js": "/pv-apresentacao-mapa/static/js/main.31cd4c1c.js",
     "static/media/pitangui.jpeg": "/pv-apresentacao-mapa/static/media/pitangui.174b45c17627e3ccec0a.jpeg",
     "static/media/mapa2.png": "/pv-apresentacao-mapa/static/media/mapa2.9cfbd407e50fb8ade877.png",
     "static/media/montes-claros.jpeg": "/pv-apresentacao-mapa/static/media/montes-claros.e30f10fe61c737cefcc9.jpeg",
@@ -12,10 +12,10 @@
     "static/media/vitoria.jpeg": "/pv-apresentacao-mapa/static/media/vitoria.05d1250911954654921d.jpeg",
     "index.html": "/pv-apresentacao-mapa/index.html",
     "main.439e37bb.css.map": "/pv-apresentacao-mapa/static/css/main.439e37bb.css.map",
-    "main.622c74ae.js.map": "/pv-apresentacao-mapa/static/js/main.622c74ae.js.map"
+    "main.31cd4c1c.js.map": "/pv-apresentacao-mapa/static/js/main.31cd4c1c.js.map"
   },
   "entrypoints": [
     "static/css/main.439e37bb.css",
-    "static/js/main.622c74ae.js"
+    "static/js/main.31cd4c1c.js"
   ]
 }
