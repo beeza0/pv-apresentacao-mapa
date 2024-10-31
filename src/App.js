@@ -98,7 +98,7 @@ const handleClose = () => setOpenModal(false)
             setOpenModal(true)
             setModalState({
               title: "Vitória",
-              subtitle: "Em processo de reabertura depois de 15 anos, localizada a 644 km de BH.",
+              subtitle: "Em processo de reabertura depois de 10 anos, localizada a 644 km de BH.",
               acts: ["Confecção de pirâmedes em 04/11", "Clarividência em 18/11", "Palestra Básico em 02/12", "BAS presencial em abril/2025"],
               image: Vitoria,
               imageWidth: 600
