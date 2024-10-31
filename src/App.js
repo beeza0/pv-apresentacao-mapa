@@ -25,7 +25,7 @@ const handleClose = () => setOpenModal(false)
         <div 
           class="city-icon" 
           data-city="Belo Horizonte" 
-          style={{ top: "74.4vh", left: "35.7vw" }}
+          style={{ top: "74.4vh", left: "34.7vw" }}
           onClick={() => {
             setOpenModal(true)
             setModalState({
@@ -42,7 +42,7 @@ const handleClose = () => setOpenModal(false)
         <div 
           class="city-icon" 
           data-city="Para de Minas" 
-          style={{top: "74vh", left: "31vw"}}
+          style={{top: "74vh", left: "30vw"}}
           onClick={() => {
             setOpenModal(true)
             setModalState({
@@ -59,7 +59,7 @@ const handleClose = () => setOpenModal(false)
         <div 
           class="city-icon" 
           data-city="Pitangui" 
-          style={{top: "71.2vh", left: "29vw"}}
+          style={{top: "71.5vh", left: "28vw"}}
           onClick={() => {
             setOpenModal(true)
             setModalState({
@@ -76,7 +76,7 @@ const handleClose = () => setOpenModal(false)
         <div 
           class="city-icon" 
           data-city="Nanuque" 
-          style={{top: "41.5vh", left: "62.2vw"}}
+          style={{top: "40.5vh", left: "63.2vw"}}
           onClick={() => {
             setOpenModal(true)
             setModalState({
@@ -93,7 +93,7 @@ const handleClose = () => setOpenModal(false)
         <div 
           class="city-icon" 
           data-city="Vitória" 
-          style={{top: "81.5vh", left: "62.3vw"}}
+          style={{top: "81.5vh", left: "63.3vw"}}
           onClick={() => {
             setOpenModal(true)
             setModalState({
@@ -110,12 +110,12 @@ const handleClose = () => setOpenModal(false)
         <div 
           class="city-icon" 
           data-city="Montes Claros" 
-          style={{top: "22.5vh", left: "36.3vw"}}
+          style={{top: "22.7vh", left: "35.35vw"}}
           onClick={() => {
             setOpenModal(true)
             setModalState({
               title: "Montes Claros",
-              subtitle: "Em processo de abertura de ponto de encontro. Reforma a todo vapor, inauguração em breve!",
+              subtitle: "Em processo de abertura de ponto de encontro, localizada a 400 km de BH. Reforma a todo vapor, inauguração em breve!",
               acts: [],
               image: MontesClaros,
               imageWidth: 600
@@ -127,12 +127,12 @@ const handleClose = () => setOpenModal(false)
         <div 
           class="city-icon" 
           data-city="Porto Seguro" 
-          style={{top: "18.8vh", left: "71.7vw"}}
+          style={{top: "18.1vh", left: "73.3vw"}}
           onClick={() => {
             setOpenModal(true)
             setModalState({
               title: "Porto Seguro / Eunápolis ",
-              subtitle: "Em fase de conquista, levamos 3 alunos para o 2SC/2024. Não tem atividades marcadas no momento. Período de convivência informal.",
+              subtitle: "Em fase de conquista, levamos 3 alunos para o 2SC/2024. Período de convivência informal.",
               acts: [],
               image: PortoSeguro,
               imageWidth: 500
