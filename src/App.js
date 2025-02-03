@@ -31,7 +31,7 @@ const handleClose = () => setOpenModal(false)
             setModalState({
               title: "Belo Horizonte",
               subtitle: "Sede Oficial",
-              acts: ["AV1 Telepresencial em 04/11", "IN Telepresencial em 02/12"],
+              acts: ["06/02 e 07/02 - Atividades da Regional de Pará de Minas", "08/02 - Inauguração da Cooperativa em Pará de Minas", "24/03 - Curso Básico Presencial"],
               image: BeloHorizonte,
               imageWidth: 500
             })
@@ -47,8 +47,8 @@ const handleClose = () => setOpenModal(false)
             setOpenModal(true)
             setModalState({
               title: "Pará de Minas",
-              subtitle: "Sede de Alunos, localizada a 70 km de BH.",
-              acts: ["IN Telepresencial em 02/12"],
+              subtitle: "Sede de Alunos, localizada a 70 km de BH. Acabou de realizar um Curso Básico presencial em 20 de janeiro",
+              acts: ["06/02 e 07/02 - Atividades da Regional", "08/02 - Inauguração da Cooperativa", "21/06 - Curso Básico Presencial"],
               image: ParaDeMinas,
               imageWidth: 600
             })
