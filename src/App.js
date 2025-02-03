@@ -82,7 +82,7 @@ const handleClose = () => setOpenModal(false)
             setModalState({
               title: "Nanuque",
               subtitle: "Ponto de Recepção, localizada a 600 km de BH.",
-              acts: ["BAS Telepresencial em 18/11"],
+              acts: ["08/03 - Inauguração do ponto de Encontro", "10/03 - Curso Básico"],
               image: Nanuque,
               imageWidth: 600
             })
@@ -99,7 +99,7 @@ const handleClose = () => setOpenModal(false)
             setModalState({
               title: "Vitória",
               subtitle: "Em processo de reabertura depois de 10 anos, localizada a 644 km de BH.",
-              acts: ["Confecção de pirâmedes em 04/11", "Clarividência em 18/11", "Palestra Básico em 02/12", "BAS presencial em abril/2025"],
+              acts: ["03/02 - Palestra de Básico", "17/02 - Exercício de Básico", "07/04 - Curso Básico"],
               image: Vitoria,
               imageWidth: 600
             })
@@ -115,8 +115,8 @@ const handleClose = () => setOpenModal(false)
             setOpenModal(true)
             setModalState({
               title: "Montes Claros",
-              subtitle: "Em processo de abertura de ponto de encontro, localizada a 400 km de BH. Reforma a todo vapor, inauguração em breve!",
-              acts: [],
+              subtitle: "Em processo de abertura de ponto de encontro, localizada a 400 km de BH. Reforma a todo vapor, inauguração em breve! Segunda feira, dia 03/02, receberam autorização para solicitar atividades via Policon, que foi instalado recentemente",
+              acts: ["10/03 - Clarividência eventual"],
               image: MontesClaros,
               imageWidth: 600
             })
@@ -133,7 +133,7 @@ const handleClose = () => setOpenModal(false)
             setModalState({
               title: "Porto Seguro / Eunápolis ",
               subtitle: "Em fase de conquista, levamos 3 alunos para o 2SC/2024. Período de convivência informal.",
-              acts: [],
+              acts: ["04/02 - Atividade online"],
               image: PortoSeguro,
               imageWidth: 500
             })
